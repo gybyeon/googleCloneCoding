@@ -92,3 +92,16 @@ li > span {
   right: 0;
   padding: 15px 35px 10px 0;
 }
+
+.github-link {
+  width: 10px;
+  height: 10px;
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  padding: 10px 35px 25px 10px;
+}
+.github-logo {
+  width: 20px;
+  height: 20px;
+}
